@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "831521299942",
+    "firebase_url": "https://awesomecrash-95328.firebaseio.com",
+    "project_id": "awesomecrash-95328",
+    "storage_bucket": "awesomecrash-95328.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831521299942:android:a0fbd952b0a8acfa",
+        "android_client_info": {
+          "package_name": "com.cct.awesome.crash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831521299942-fmpv9lut320c107ii4f1epeh3g8adath.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cct.awesome.crash",
+            "certificate_hash": "bbf0044a5391a295332f7c2223484f0180be8d08"
+          }
+        },
+        {
+          "client_id": "831521299942-56norb3adm00mr9l0nfva1hg2461qbpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNQJHdMr_4c1o1qYd13B9CYBLLzDQiUBY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831521299942-56norb3adm00mr9l0nfva1hg2461qbpc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
